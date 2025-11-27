@@ -1,5 +1,4 @@
-https://github.com/thums24/learn-cicd-starter/actions/workflows/ci.yml/badge.svg
-![alt text goes here](IMAGE_URL)
+![alt text goes here](https://github.com/thums24/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
 
 # learn-cicd-starter (Notely)
 
